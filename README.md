@@ -66,6 +66,9 @@ These fields were used to analyze salary trends, demand patterns, remote work op
 - AI/LLM Jobs Percentage: 21.80%
 - Average Demand Score: 8.80
 
+## Screenshot
+<img width="1375" height="816" alt="image" src="https://github.com/user-attachments/assets/0216a9eb-0ff8-4005-919d-78e96112e90d" />
+
 ## Key Insights
 - AI Engineering is the most in-demand category with 736 job postings.
 - Remote jobs account for 75.4% of the total dataset, showing strong remote hiring trends.
@@ -91,12 +94,6 @@ This Excel dashboard provides a clear overview of AI job market trends and helps
 - Dashboard screenshot
 - README file
 
-## Screenshot
-Add your dashboard screenshot here.
 
 
-## Author
-**Your Name**  
-LinkedIn: Your LinkedIn Profile  
-GitHub: Your GitHub Profile  
-Email: your.email@example.com
+
